@@ -1,0 +1,22 @@
+What is a foreign key?
+What is a one-to-many relationship? (can also switch it out with one-to-one or many-to-many)
+What are the different components of an ER Model? What kind of information do each contain?
+What is the difference between a DBMS and a database?
+What is normalization?
+What is first normal form?
+What is a composite key?
+How do you model your tables so they have a many-to-many relationship? (Ex: How do you set up a M-M relationship between a student table and a course table?)
+What is the difference between DML & DDL?
+What is the difference between a Primary Key and Unique constraint?
+What is a transaction?
+Can you give one example of how SQL follows ACID compliance?
+How does Truncate differ from using Delete?
+What is a group by statement?
+What SQL clause can I use to get all the unique values from a table?
+If I had a table of students that stored the gpa of each student, how would I go about finding the students with the 3 highest GPAs? (what specific clauses will you need to use to build your query?)
+Using the same student table, how would you go about finding the average GPA for all students who are in the computer science department (can assume a column in student table called department)?
+What is an inner join?
+What is a union?
+What is the difference between a join and set operators?
+I have a professor table and a course table where there is a relationship table linking them in a many to many relationship. What query do I write so I see the name of a course and the professor teaching it?
+When should you use a left join over an inner join?
